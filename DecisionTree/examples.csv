@@ -1,0 +1,6 @@
+Instância,DistânciaAoGol,ÂnguloParaGol,NumeroDeOponentesNaFrente,DistanciaOponenteMaisProximo,VelocidadeDaBola,GoleiroVisivel,DistanciaGoleiro,AberturaNoGol,Supervisão (ChutarParaGol)
+1,15.2,5,0,3.1,0.2,true,7.5,0.8,true
+2,8.7,12,1,2.0,0.1,true,5.0,0.5,false
+3,22.5,2,0,5.8,0.3,true,12.0,0.9,false
+4,10.1,8,2,1.5,0.0,true,6.2,0.3,false
+5,5.5,3,0,4.2,0.2,true,3.8,0.7,true
